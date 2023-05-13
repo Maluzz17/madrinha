@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(196, 218, 4); /*Pode escolher outra cor se quiser*/
+  }
+  
+  h1 {
+    color: rgb(209, 33, 33); /*Pode escolher outra cor se quiser*/
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
